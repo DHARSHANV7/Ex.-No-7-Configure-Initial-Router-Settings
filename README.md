@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 19/09/2025
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -84,6 +84,9 @@ ________________________________________
 •	MOTD banner display<br>
 •	Password prompts<br>
 •	Saved configuration in NVRAM and flash<br>
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/2418b901-0d84-430f-b0ff-1133e6b541d3" />
+<img width="1331" height="918" alt="Editing Ex -No-7-Configure-Initial-Router-Settings_README md at main · Harsetha_Ex -No-7-Configure-Initial-Router-Settings - Google Chrome 19-09-2025 9 20 09 AM" src="https://github.com/user-attachments/assets/f6238d86-af18-4db2-bb2b-6750a546c994" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
